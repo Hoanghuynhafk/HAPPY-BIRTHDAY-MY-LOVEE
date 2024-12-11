@@ -8,12 +8,12 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background-color: #ff69b4; /* Màu hồng */
+            background-color: #f0c0c0; /* Màu hồng cổ điển, nhạt hơn */
             margin: 0;
             padding: 0;
         }
         h1 {
-            color: #fff; /* Màu chữ trắng để nổi bật trên nền hồng */
+            color: #ff66b2; /* Màu chữ hồng */
             font-size: 3em;
             margin-top: 50px;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Thêm bóng cho chữ */
